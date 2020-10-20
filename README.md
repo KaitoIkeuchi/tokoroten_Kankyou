@@ -18,11 +18,12 @@
 <div class="contents">
          <h3>学びたい内容を選んでね！</div>
 <div class="contents-item">
-         <img src="https://www.youtube.com/?gl=JP&hl=ja">
+         <img class=<a>https://www.youtube.com/?gl=JP&hl=ja</a>
          <p>上記のホームページで詳しい内容が乗るよ</p>
 </div>
 <div class="contact-form">
-         <h4>興味があったら下記のURLも観てみてね！</h4>        
+         <h4>興味があったら下記のURLも観てみてね！</h4>
+         <img class=<a>https://www.youtube.com/?gl=JP&hl=ja</a>>
 </div>
 </div>
 <div class="footer">
