@@ -32,6 +32,6 @@
             <ul>
                    <li>チーム名:ところてんについて</li>
                    <li>ヘルプ</li>
-                     <li><font color="RED">リーダー佐々木</font></li>
+                     <li><font color="#ee5145">リーダー佐々木</font></li>
             </ul>
 </div>
